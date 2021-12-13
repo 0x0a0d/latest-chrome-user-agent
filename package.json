@@ -1,0 +1,36 @@
+{
+  "name": "latest-chrome-user-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepack": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src/**/**.js",
+    "src/**/**.d.ts",
+    "types",
+    "dist"
+  ],
+  "devDependencies": {
+    "@cylution/eslint-config-nodejs": "^1.0.12",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.12",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "eslint": "^7.32.0",
+    "jest": "^27.4.4",
+    "ts-jest": "^27.1.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  },
+  "dependencies": {
+    "latest-chrome-version": "^2.0.2"
+  }
+}
