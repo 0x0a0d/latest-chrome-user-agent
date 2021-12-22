@@ -9,6 +9,10 @@
   "keywords": [
     "chrome", "user agent"
   ],
+  "repository": {
+    "url": "https://github.com/0x0a0d/latest-chrome-user-agent",
+    "type": "git"
+  },
   "author": "0x0a0d",
   "license": "MIT",
   "files": [
