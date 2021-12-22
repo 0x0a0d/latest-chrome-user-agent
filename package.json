@@ -1,13 +1,14 @@
 {
   "name": "latest-chrome-user-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get latest chrome user-agent",
   "main": "index.js",
   "scripts": {
     "prepack": "tsc"
   },
   "keywords": [
-    "chrome", "user agent"
+    "chrome",
+    "user agent"
   ],
   "repository": {
     "url": "https://github.com/0x0a0d/latest-chrome-user-agent",
